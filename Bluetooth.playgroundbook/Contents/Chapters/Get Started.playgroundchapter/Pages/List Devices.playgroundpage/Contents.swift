@@ -1,8 +1,6 @@
 /*
- Copyright (C) 2016 Apple Inc. All Rights Reserved.
- See LICENSE.txt for this sample’s licensing information.
- 
- This is an example playground page.
+ Copyright (C) 2016 Atsushi Nagase. All Rights Reserved.
+ See LICENSE for this sample’s licensing information.
 */
 
 import UIKit
